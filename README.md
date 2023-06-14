@@ -8,10 +8,6 @@ I'm Levi! A hobbyist game developer, software engineer with 6+ years of experien
   </a>
 </p>
 
-<p>
-  <img src="https://api.vaunt.dev/v1/github/entities/akatsukilevi/achievements?format=svg" width="350" />
-</p>
-
 
 ## 🔭 I’m currently working on ...
 
@@ -19,4 +15,9 @@ I'm Levi! A hobbyist game developer, software engineer with 6+ years of experien
 
 ## 🌱 I’m currently learning ...
 
-Godot and C#, migrating from Unity3D
+- By hobby: Godot and C#, migrating away from Unity3D
+- At work: Rust (It's time to get Rusty!)
+
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/akatsukilevi/achievements?format=svg" width="350" />
+</p>
