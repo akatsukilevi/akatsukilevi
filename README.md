@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Levi! A hobbyist game developer, software engineer with 6+ years of experience!
+I'm Levi! A software engineer with 6+ years of experience!
 
 ## 🔭 I’m currently working on ...
 
