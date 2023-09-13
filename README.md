@@ -8,5 +8,4 @@ New and exciting upcoming projects, keep a eye out for it!
 
 ## 🌱 I’m currently learning ...
 
-- By hobby: Godot and C#, migrating away from Unity3D
 - At work: Rust (It's time to get Rusty!)
